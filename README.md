@@ -21,3 +21,5 @@
 
 ## Integrante 4: Victor Garcia
 ![captura victor](https://github.com/JeryRPG/Taller-AspectJ/blob/main/login%20y%20logout%20de%20user.png)
+![captura Correccion de perserveracion de datos]<img width="1440" alt="Correccion de perserveracion de datos" src="https://github.com/JeryRPG/Taller-AspectJ/assets/84451817/1353504f-4749-4229-9c03-120235cb8878">
+![captura login y logout de user]<img width="1440" alt="login y logout de user" src="https://github.com/JeryRPG/Taller-AspectJ/assets/84451817/ee85b5d2-3cd4-42da-93b1-0f25561502f3">
