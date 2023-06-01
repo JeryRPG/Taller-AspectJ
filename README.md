@@ -13,3 +13,8 @@
 ![AspectoLogger-Miranda](https://github.com/JeryRPG/Taller-AspectJ/blob/aabab7f0c64cda523675beea3eb6c7b0750fb038/Cambio%20signUp.png)
 
 ![MirandaPrueba](https://github.com/JeryRPG/Taller-AspectJ/blob/192008aae9a2430bfe3a5ebe0ee40ca42fe3f277/Miranda-PruebaLoginA.png)
+
+## Integrante 3: Melanie Peñaherrera
+![Captura User created.png](https://github.com/JeryRPG/Taller-AspectJ/blob/main/Captura%20User%20created.png))
+![[melpgala captura2]()](https://github.com/JeryRPG/Taller-AspectJ/blob/main/Captura%20aspecto%20log%20out.png)
+![melpgala captura3](https://github.com/JeryRPG/Taller-AspectJ/blob/main/Captura%20consola.png)
