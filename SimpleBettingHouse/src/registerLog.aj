@@ -9,7 +9,7 @@ import com.bettinghouse.User;
 
 
 public aspect registerLog {
-	String filePath = System.getProperty("user.dir") + File.separator + "src" + File.separator + "log.txt";  
+	String filePath = System.getProperty("user.dir") + File.separator + "src" + File.separator + "register.txt";  
     Calendar cal = Calendar.getInstance();
 
     // Aspecto: Punto de corte para el método signUp
@@ -28,6 +28,6 @@ public aspect registerLog {
             e.printStackTrace();
         }
 
-        System.out.println("**** User created ****");
+        System.out.println("** User created **");
     }
 }

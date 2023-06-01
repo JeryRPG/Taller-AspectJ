@@ -1,0 +1,1 @@
+Usuario registrado: [nickname = 123] password = 123, Fecha: [Wed May 31 20:35:20 ECT 2023]

@@ -1,1 +1,7 @@
 Usuario registrado: [nickname = h, password = h] Fecha: [Wed May 31 16:47:50 ECT 2023]
+Usuario registrado: [nickname = vigarome, password = ******] Fecha: [Wed May 31 19:52:20 ECT 2023]
+Usuario registrado: [nickname = vigarome] password = ******, Fecha: [Wed May 31 19:52:20 ECT 2023]
+Usuario registrado: [nickname = vigarome, password = ******] Fecha: [Wed May 31 19:55:02 ECT 2023]
+Usuario registrado: [nickname = vigarome] password = ******, Fecha: [Wed May 31 19:55:02 ECT 2023]
+Sesión iniciada por usuario: [123] Fecha: [Wed May 31 20:35:29 ECT 2023]
+Sesión cerrada por usuario: [nickname = 123] Fecha: [Wed May 31 20:35:29 ECT 2023]
